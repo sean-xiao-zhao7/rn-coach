@@ -1,0 +1,1 @@
+const navigator = createStackNavigator();
